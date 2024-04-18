@@ -2,14 +2,14 @@
 This Repository Contains Simple Projects in Machine learning
 ## Key Topics
 The Project divided into these topics in these aspects:
-  - [ ] Naive Bayes
-  - [ ] Logistic Regression
-  - [ ] Decision Tree
-  - [ ] Random Forest 
-  - [ ] SVM (Support Vector Machine)
-  - [ ] K-means
-  - [ ] KNN (K-Nearest Neighboar)
-  - [ ] ANN‫
+  - [x] Naive Bayes
+  - [x] Logistic Regression
+  - [x] Decision Tree
+  - [x] Random Forest 
+  - [x] SVM (Support Vector Machine)
+  - [x] K-means
+  - [x] KNN (K-Nearest Neighboar)
+  - [x] ANN‫
   - [ ] ICA
   - [ ] LDA
-  - [ ] PCA
+  - [x] PCA

@@ -10,6 +10,6 @@ The Project divided into these topics in these aspects:
   - [x] K-means
   - [x] KNN (K-Nearest Neighboar)
   - [x] ANN‫
-  - [ ] ICA
-  - [ ] LDA
+  - [x] ICA
+  - [x] LDA
   - [x] PCA
